@@ -10,7 +10,7 @@
 <body>
   <header>
     <div class="logo">
-      <h1>Музыкант</h1>
+      <h1>LOCAL CODE</h1>
     </div>
     <nav>
       <ul>
